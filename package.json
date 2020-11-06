@@ -1,0 +1,22 @@
+{
+  "name": "react-chat",
+  "version": "1.0.0",
+  "description": "A chat app made with React.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevkevwuhoo/react-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevkevwuhoo/react-chat/issues"
+  },
+  "homepage": "https://github.com/kevkevwuhoo/react-chat#readme",
+  "devDependencies": {
+    "create-react-app": "^4.0.0"
+  }
+}
